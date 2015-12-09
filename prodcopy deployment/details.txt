@@ -1,0 +1,4 @@
+Please make note of these servers when ever you are doing the prod copy deployments....
+XWMTDT360AECR1\10.254.118.101
+XWMTCT360AECR2\10.254.118.103
+along with other servers we have to do T360TF deployments in these servers
