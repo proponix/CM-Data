@@ -1,0 +1,28 @@
+replace content of file in linux
+--------------------------------------------------
+esc + :
+%s /9300/9400/g
+replace ment of content
+
+---------------------------------------------------------
+
+creating region in TP
+------------------------------------------------------------
+
+/apps/t360/scripts/apache/dependance/apache/envs
+
+/apps/t360/scripts/apache/menu.xml
+
+
+
+----------------------------------------------------------
+to copy the directory with same rights
+----------------------------------------------------------
+
+cp -Rp DEV03-TPTFRW9300 DEV03-TPTFRW9400
+
+esc + :
+
+----------------------------------------------------------
+
+df –hT  -- checking space in server
